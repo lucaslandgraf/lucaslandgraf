@@ -1,3 +1,11 @@
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">👋 Hi, I'm Lucas, a Systems Analysis student.<br><br>💻 I'm currently deepening my knowledge in programming logic.<br><br>🚀 I'm passionate about technology and always striving to improve, with the goal of creating unique and impactful solutions.</p>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
