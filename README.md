@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Lucas, a Systems Analysis student.<br><br>💻 I'm currently deepening my knowledge in programming logic.<br><br>🚀 I'm passionate about technology and always striving to improve, with the goal of creating unique and impactful solutions.</p>
+<p align="left">👋 Hi, I'm Lucas, a Systems analysis and development student.<br><br>💻 I'm currently deepening my knowledge in programming logic.<br><br>🚀 I'm passionate about technology and always striving to improve, with the goal of creating unique and impactful solutions.</p>
 
 ###
 
