@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻 My name is Lucas and I'm a Systems Analysis and Development student.</p>
+<p align="left">🧑‍💻 I'm Lucas, a Systems Analysis and Development student from Brazil.</p>
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslandgraf&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslandgraf&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaslandgraf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
