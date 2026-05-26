@@ -6,7 +6,6 @@
 - 🎓 **Education:** Degree in Systems Analysis and Development at **Universidade Positivo** 
 - 📚 **Specialization:** MBA in Software Engineering at **UTFPR** *(In Progress)*
 - 🎯 **Current Focus:** High-performance Backend development with **Java/Spring Boot** and Cloud Architecture on **AWS**.
-- 📍 Londrina - PR, Brazil
 
 ---
 
