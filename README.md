@@ -1,56 +1,32 @@
-<h1 align="left">Hey, What's up?</h1>
+# Hey, I'm Lucas Landgraf 👋
 
-###
+---
 
-<p align="left">🧑‍💻 I'm Lucas, a Systems Analysis and Development student from Brazil.</p>
+### 🚀 About Me
+- 🎓 **Education:** Degree in Systems Analysis and Development at **Universidade Positivo** 
+- 📚 **Specialization:** MBA in Software Engineering at **UTFPR** *(In Progress)*
+- 🎯 **Current Focus:** High-performance Backend development with **Java/Spring Boot** and Cloud Architecture on **AWS**.
+- 📍 Londrina - PR, Brazil
 
-###
+---
 
-<h2 align="left">About me:</h2>
+### 🛠️ Technologies & Tools
+- **Languages & Backend:** Java, Python, PHP, JavaScript
+- **Mobile & Frontend:** React Native
+- **Databases:** MySQL
+- **Cloud & DevOps:** AWS, Git, GitHub
 
-###
+---
 
-<p align="left">📚 I'm currently learning programming logic. <br><br>💻 I'm also exploring mobile application development and data science as part of my college studies.<br><br>🎯 Goals: Build impactful tech solutions and grow my skills.</p>
+### 📈 What I'm working on right now:
+- ☕ Deep diving into microservices architecture, REST APIs, and security with **Spring Boot**.
+- ☁️ Expanding cloud skills on **AWS**, focusing on services like EC2, S3, Lambda, and RDS.
+- 📐 Applying advanced Software Engineering concepts, Design Patterns, and Clean Code into my repositories.
 
-###
+---
 
-<h2 align="left">Stats:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslandgraf&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaslandgraf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">I code with:</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h2 align="left">Find me on:</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-landgraf-48586131a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslandgraf&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslandgraf&layout=compact&theme=dark" alt="Top Languages" height="180px"/>
+</p>
