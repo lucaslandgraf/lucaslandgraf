@@ -25,7 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslandgraf&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslandgraf&layout=compact&theme=dark" alt="Top Languages" height="180px"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucaslandgraf/lucaslandgraf/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/lucaslandgraf/lucaslandgraf/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
